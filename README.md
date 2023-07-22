@@ -1,3 +1,3 @@
 # finsearch
 
-untitled1 contains black-schools and untitles2 contains monte carlo demonstrations
+untitled1 contains black-scholes and untitles2 contains monte carlo simulations demonstrations
